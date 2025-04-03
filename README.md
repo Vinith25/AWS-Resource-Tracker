@@ -45,6 +45,6 @@ We welcome contributions from the community! To contribute to this project, plea
 ## Author
 
 - [LinkedIn](https://www.linkedin.com/in/vinith-b-42a3a922a)
-- [Github](https://github.com/rissh)
+- [Github](https://github.com/Vinith25)
 
 🚀 Happy coding! 🚀
