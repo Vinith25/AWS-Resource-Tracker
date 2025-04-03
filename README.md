@@ -44,7 +44,7 @@ We welcome contributions from the community! To contribute to this project, plea
 
 ## Author
 
-- [LinkedIn](https://www.linkedin.com/in/rishikesh-jagadale-331812207/)
+- [LinkedIn](https://www.linkedin.com/in/vinith-b-42a3a922a)
 - [Github](https://github.com/rissh)
 
 🚀 Happy coding! 🚀
